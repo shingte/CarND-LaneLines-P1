@@ -12,6 +12,9 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on the work in a written report
 
+* Output of images are in https://github.com/shingte/CarND-LaneLines-P1/tree/master/results
+* Output of videos are in https://github.com/shingte/CarND-LaneLines-P1/tree/master/test_videos_output
+
 [//]: # (Image References)
 
 [image1]: ./test_images/solidWhiteCurve.jpg "Original"
